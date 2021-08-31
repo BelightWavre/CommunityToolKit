@@ -3609,6 +3609,7 @@ namespace CommunityToolKit.Droid
 			global::Xamarin.Essentials.Resource.Id.text2 = global::CommunityToolKit.Droid.Resource.Id.text2;
 			global::Xamarin.Essentials.Resource.Id.time = global::CommunityToolKit.Droid.Resource.Id.time;
 			global::Xamarin.Essentials.Resource.Id.title = global::CommunityToolKit.Droid.Resource.Id.title;
+			global::Xamarin.Essentials.Resource.Id.view_tree_lifecycle_owner = global::CommunityToolKit.Droid.Resource.Id.view_tree_lifecycle_owner;
 			global::Xamarin.Essentials.Resource.Integer.status_bar_notification_info_maxnum = global::CommunityToolKit.Droid.Resource.Integer.status_bar_notification_info_maxnum;
 			global::Xamarin.Essentials.Resource.Layout.browser_actions_context_menu_page = global::CommunityToolKit.Droid.Resource.Layout.browser_actions_context_menu_page;
 			global::Xamarin.Essentials.Resource.Layout.browser_actions_context_menu_row = global::CommunityToolKit.Droid.Resource.Layout.browser_actions_context_menu_row;
@@ -16190,25 +16191,28 @@ namespace CommunityToolKit.Droid
 			public const int view_offset_helper = 2131231030;
 			
 			// aapt resource value: 0x7F080137
-			public const int view_tree_saved_state_registry_owner = 2131231031;
+			public const int view_tree_lifecycle_owner = 2131231031;
 			
 			// aapt resource value: 0x7F080138
-			public const int visible = 2131231032;
+			public const int view_tree_saved_state_registry_owner = 2131231032;
 			
 			// aapt resource value: 0x7F080139
-			public const int visible_removing_fragment_view_tag = 2131231033;
-			
-			// aapt resource value: 0x7F08013B
-			public const int withinBounds = 2131231035;
+			public const int visible = 2131231033;
 			
 			// aapt resource value: 0x7F08013A
-			public const int withText = 2131231034;
+			public const int visible_removing_fragment_view_tag = 2131231034;
 			
 			// aapt resource value: 0x7F08013C
-			public const int wrap_content = 2131231036;
+			public const int withinBounds = 2131231036;
+			
+			// aapt resource value: 0x7F08013B
+			public const int withText = 2131231035;
 			
 			// aapt resource value: 0x7F08013D
-			public const int zero_corner_chip = 2131231037;
+			public const int wrap_content = 2131231037;
+			
+			// aapt resource value: 0x7F08013E
+			public const int zero_corner_chip = 2131231038;
 			
 			static Id()
 			{
